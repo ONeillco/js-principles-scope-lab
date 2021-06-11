@@ -10,8 +10,8 @@ function upperCaseCustomerName(){
 
 
 function setBestCustomer(){
-    'not bob'
-    //window.bestcustomer =
+   bestcustomer = ['not bob']
+ 
 }
 
  
